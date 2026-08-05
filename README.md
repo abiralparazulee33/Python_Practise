@@ -1,1 +1,2 @@
-# Python code practise from basics.
+# Python
+Python code practise.
